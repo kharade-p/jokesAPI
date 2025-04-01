@@ -1,5 +1,5 @@
 Clone the Repository
-  git clone https://github.com/kharade-p/data_processing.git
+  git clone https://github.com/kharade-p/jokesAPI.git
   cd develop
 
 Run the Application
